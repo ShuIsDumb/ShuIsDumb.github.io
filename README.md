@@ -1,2 +1,2 @@
 # ShuIsDumb.github.io
-My bio website
+https://shuisdumb.github.io/
